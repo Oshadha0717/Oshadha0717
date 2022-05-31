@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security.
 - 🌱 I’m currently learning Maliyadeva College.
 - 💞️ I’m looking to collaborate on Discord
-- 📫 How to reach me Robotnix#2045
+- 📫 You can reach me Robotnix#2045
 
 <!---
 Oshadha0717/Oshadha0717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
